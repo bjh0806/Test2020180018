@@ -1,2 +1,2 @@
-#이름:
+#이름: 배지현
 print('Hello, World')
